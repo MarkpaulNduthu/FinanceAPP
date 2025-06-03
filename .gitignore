@@ -1,0 +1,4 @@
+.venv/
+venv/
+categories.json
+sample_bank_statement.csv
